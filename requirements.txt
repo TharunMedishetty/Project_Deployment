@@ -2,7 +2,7 @@
 streamlit
 #turtle
 nltk==3.3
-numpy==1.23.3
+numpy==1.23.0
 pandas==1.5.0
 #plotly==5.8.0
 scikit_learn==1.1.2
