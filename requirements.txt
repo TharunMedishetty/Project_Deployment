@@ -1,6 +1,6 @@
 #matplotlib==2.2.3
 streamlit
-turtle==0.0.1
+turtle
 nltk==3.3
 numpy==1.23.3
 pandas==1.5.0
